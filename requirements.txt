@@ -1,0 +1,7 @@
+sphinxcontrib-bibtex
+docutils==0.16
+Sphinx==3.4.3
+sphinx_rtd_theme==0.5.1
+breathe==4.26.1
+regex
+
