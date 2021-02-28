@@ -15,8 +15,6 @@ sys.path.insert(0, os.path.abspath('.'))
 
 author = "James Random"
 
-release = version
-
 # -- General configuration ---------------------------------------------------
 
 master_doc = 'index'
